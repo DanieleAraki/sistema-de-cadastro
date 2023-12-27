@@ -5,5 +5,5 @@
 > Para rodar esse repositório em sua maquina por favor digite:
 
 ```
-npm instal react
+node app.js 
 ```
